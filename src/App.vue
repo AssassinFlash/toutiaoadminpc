@@ -1,9 +1,6 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view/>
+  <h1>今日头条实战</h1>
+  <router-view />
 </template>
 
 <style lang="less">
